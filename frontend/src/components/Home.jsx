@@ -18,7 +18,8 @@ function Home() {
       })
     }, []);
 
-    const deleteCar = (id) =>{
+    const deleteCar = (id,e) =>{
+      e.preventDefault();
       axios.delete(`http://127.0.0.1:8000/api/car/delete/${id}`).then((response) => {
         console.log(response.data.message);
         window.location.reload();
