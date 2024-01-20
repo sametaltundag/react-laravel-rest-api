@@ -1,1 +1,1 @@
-https://www.linkedin.com/feed/update/urn:li:activity:7148724758476472320/
+Proje videosu: https://www.linkedin.com/feed/update/urn:li:activity:7148724758476472320/
